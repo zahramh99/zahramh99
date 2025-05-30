@@ -1,5 +1,5 @@
 <h3 align="center">Hi 👋, I'm Zahra Gharehmahmoodlee</h3>
-<h4 align="center">Computer Science grad exploring the creative side of tech! I work on Large Language Models at IDS Lab and spend my free time making games and 3D art. Currently leveling up my skills in 3D Animation and Digital Sculpting at Inverse School. Passionate about blending code with creativity to tell awesome stories and build unforgettable worlds. 🎮✨</h4>
+<h4 align="center"> Computer Science graduate researching Large Language Models for industrial and creative applications. Currently studying 3D Animation at Inverse School and working as a web developer, I thrive at the intersection of technology and storytelling—passionate about game development, 3D design, and immersive narrative experiences 🎮✨</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahramh99&label=Profile%20views&color=0e75b6&style=flat" alt="zahramh99" /> </p>
 
