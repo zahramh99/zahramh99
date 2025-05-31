@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **A personal game project where I’m combining my skills in 3D modeling, animation, and storytelling. I'm also exploring how AI (especially Large Language Models) can enhance interactive narratives in games.**
 
-- 👨‍💻 All of my projects are available at [zahramh99.github.io](zahramh99.github.io)
-
 - 📝 I regularly write articles on [https://dev.to/zahramh99](https://dev.to/zahramh99)
 
 - 📫 How to reach me **zahramahmoodlee2012@gmail.com**
