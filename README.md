@@ -1,9 +1,7 @@
-<h3 align="center">Hi 👋, I'm Zahra Gharehmahmoodlee</h3>
-<h4 align="center"> Computer Science graduate researching Large Language Models for industrial and creative applications. Currently studying 3D Animation at Inverse School and working as a web developer, I thrive at the intersection of technology and storytelling—passionate about game development, 3D design, and immersive narrative experiences 🎮✨</h4>
+<h3 align="center">Hi 👋, I'm Zahra</h3>
+<h4 align="center"> Computer Science graduate with research experience in AI and computer vision,LLMs. Currently applying these methods to biomedical data analysis and scientific visualization. My work spans deep learning for medical imaging, 3D reconstruction for biological structures, and developing tools for genomic data interpretation. I'm passionate about leveraging computational techniques to solve complex problems at the intersection of technology and life sciences. Outside of my research i am studying 3D Animation at Inverse School, I'm into game development and 3D animation. it's where I get to play with storytelling and interactive design. You can check out that side of my work in my Artstaition portfolio. 🎮✨</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zahramh99&label=Profile%20views&color=0e75b6&style=flat" alt="zahramh99" /> </p>
-
-- 🔭 I’m currently working on **A personal game project where I’m combining my skills in 3D modeling, animation, and storytelling. I'm also exploring how AI (especially Large Language Models) can enhance interactive narratives in games.**
 
 - 📝 I regularly write articles on [https://dev.to/zahramh99](https://dev.to/zahramh99)
 
